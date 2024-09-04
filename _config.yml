@@ -15,4 +15,4 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 markdown: kramdown
 title: Jair's Math Notes
-description: A colleciton of mathematical Latex Notes
+description: A collection of mathematical Latex Notes
