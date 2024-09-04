@@ -16,3 +16,11 @@ include:
 markdown: kramdown
 title: Jair's Math Notes
 description: A collection of mathematical Latex Notes
+
+# Load MathJax globally
+mathjax: true
+
+# Custom includes for MathJax
+head:
+  - <script type="text/javascript" async
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.0.0/es5/tex-mml-chtml.js"></script>
