@@ -22,5 +22,5 @@ mathjax: true
 
 # Custom includes for MathJax
 head:
-  - <script type="text/javascript" async
-        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.0.0/es5/tex-mml-chtml.js"></script>
+  - <script type="text/javascript" id="MathJax-script" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.0.0/es5/latest?tex-mml-chtml.js"></script>
