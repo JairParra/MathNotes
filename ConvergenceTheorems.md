@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Convergence Theorems"
 permalink: /convergence_theorems
+---
 
 ### 1. **Everywhere Convergence / Sure Convergence**
 
