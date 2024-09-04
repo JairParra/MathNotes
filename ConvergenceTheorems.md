@@ -2,11 +2,8 @@
 layout: default
 title: "Convergence Theorems"
 permalink: /convergence_theorems
+description: Probability Theory Convergence Theorems
 ---
-
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.0.0/es5/tex-mml-chtml.js">
-</script>
 
 ### 1. **Everywhere Convergence / Sure Convergence**
 
